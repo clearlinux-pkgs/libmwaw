@@ -1,5 +1,5 @@
 PKG_NAME := libmwaw
-URL = 
+URL = https://dev-www.libreoffice.org/src/libmwaw-0.3.15.tar.xz
 ARCHIVES = 
 
 include ../common/Makefile.common
