@@ -4,7 +4,7 @@
 #
 Name     : libmwaw
 Version  : 0.3.15
-Release  : 2
+Release  : 3
 URL      : https://dev-www.libreoffice.org/src/libmwaw-0.3.15.tar.xz
 Source0  : https://dev-www.libreoffice.org/src/libmwaw-0.3.15.tar.xz
 Summary  : Import library for some old mac text documents.
