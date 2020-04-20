@@ -1,20 +1,36 @@
 CHANGES:
 
+03/16/2020:
+- remove the QuarkXPress parser (must be in libqxp)
+
+03/15/2020:
+- retrieve the annotation in MsWord 5 document,
+
+03/13/2020:
+- try to better understand RagTime 5-6 document:
+  + retrieve document with one spreasheet as
+    spreadsheet,
+  + retrieve character attachments and footnotes
+    as comments
+
+5/03/2019:
+- add a parser for QuarkXPress v1-2 files
+
 -------- version 0.3.16 (start)  -------------
 
-28/3/2019:
+3/28/2019:
 - small changes when converting MacWrite II/pro files
 
-15/5/2018:
+5/15/2018:
 - transform bitmap in PNG if zlib is avalaible
 
-12/5/2018:
+5/12/2018:
 - add a parser for Fractal Design/MetaCreations/Corel Painter v1-v10
 
-31//3/2018:
+3/31/2018:
 - modernize the code(unique_ptr, ...)
 
-31/1/2018:
+1/31/2018:
 - fix some fuzzer problems
 
 -------- version 0.3.15 (start)  -------------
