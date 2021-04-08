@@ -1,5 +1,19 @@
 CHANGES:
 
+04/06/2021:
+- remove many coverity warnings
+
+03/23/2021:
+- add a parser for Canvas 5 ( Mac and Windows )
+
+03/12/2021:
+- add basic support for hatch
+
+02/25/2021
+- add basic support for drop cap
+
+-------- version 0.3.18 (start)  -------------
+
 09/13/2020:
 - add a parser for Jazz(Lotus) writer and spreasheet files
   + the writer parser can only be called if the file still
