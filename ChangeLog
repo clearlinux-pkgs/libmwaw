@@ -1,5 +1,16 @@
 CHANGES:
 
+05/06/2021:
+- add a parser for Canvas 7/8 files (Mac)
+
+05/03/2021:
+- add a parser for Canvas Image files (Mac 5-8, Windows 5-6)
+
+04/30/2021:
+- add a parser for Canvas 6 (Mac and Windows)
+
+-------- version 0.3.19 (start)  -------------
+
 04/06/2021:
 - remove many coverity warnings
 
