@@ -1,5 +1,16 @@
 CHANGES:
 
+07/09/2021:
+- add a parser for Student Writing Center files (v1)
+
+06/11/2021:
+- add a parser for Word Maker files (v1)
+
+06/07/2021:
+- add a parser for Canvas 9/10 files (Mac)
+
+-------- version 0.3.20 (start)  -------------
+
 05/06/2021:
 - add a parser for Canvas 7/8 files (Mac)
 
