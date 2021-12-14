@@ -1,5 +1,20 @@
 CHANGES:
 
+11/27/2021:
+- add debug code to read some private rsrc data
+  + allow to read some MacWrite which does not have printer informations
+  
+08/15/2021:
+- add a parser for Scoop files
+
+08/06/2021:
+- add a parser for ScriptWriter files
+
+07/29/2021:
+- add a parser for ReadySetGo 1-4 files
+
+-------- version 0.3.21 (start)  -------------
+
 07/09/2021:
 - add a parser for Student Writing Center files (v1)
 
