@@ -1,2 +1,3 @@
 Configure miss: Darwin (Mac OS X) platform
 Configure miss: Win32 platform in general
+Configure miss: [[clang::fallthrough]]
