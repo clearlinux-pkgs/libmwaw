@@ -1,3 +1,5 @@
 Configure miss: Darwin (Mac OS X) platform
 Configure miss: Win32 platform in general
 Configure miss: [[clang::fallthrough]]
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ options needed to detect all undeclared functions

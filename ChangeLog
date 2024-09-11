@@ -1,4 +1,16 @@
 CHANGES:
+04/29/2023:
+- correct many cppcheck and coverity warnings...
+04/18/2023:
+- add a parser for SpringBoard Publisher 2 files
+04/13/2023:
+- run autoupdate
+12/31/2021:
+- add a parser for Design Studio 2 files
+12/20/2021:
+- add a parser for Ready Set Go 6 files (and maybe some 7 files)
+
+-------- version 0.3.22 (start)  -------------
 
 11/27/2021:
 - add debug code to read some private rsrc data
